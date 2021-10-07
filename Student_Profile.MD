@@ -8,7 +8,7 @@ Cohort2
 
    __Student_TODO:__ 
  
-  In the near future I want to become a researcher and developer in financial engineering and work on research thet will develop financial instruments and make thier trading more flexible and create a database for banks and financial markets using the blockchain,specifically focusing on the limited financial instruments traded in general.
+  In the near future,I want to become a researcher and developer in financial engineering and work on research thet will develop financial instruments and make thier trading more flexible.I aim to create a database for banks and financial markets using the blockchain also develop protection for tha data.specifically focusing on the limited financial instruments traded in general.
 
 ### Student mini-CV:
 
